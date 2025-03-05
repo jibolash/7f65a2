@@ -18,3 +18,7 @@
 3. Clicking on a node should show the prefill UI for that node.
 4. Clicking a field within the prefill UI should display a modal with data from previous node forms
 5. When a field is filled, a button is added to enable a clear the field's value
+
+### Usage
+
+Youtube: https://www.youtube.com/watch?v=TWA8XOOF4nQ&ab_channel=JibolaSogbein
