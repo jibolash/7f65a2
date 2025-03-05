@@ -1,0 +1,48 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #EBEBEB;
+  padding: 4px;
+  margin: 8px;
+  width: 300px;
+  border-radius: 4px;
+}
+
+.emptyItem {
+  color: gray;
+  display: flex;
+  justify-content: space-between;
+  background-color: #EBEBEB;
+  padding: 4px;
+  margin: 8px;
+  width: 300px;
+  border-radius: 4px;
+}
+
+.availableDataModal {
+  display: flex;
+  flex-direction: column;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.modalOverlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  inset: 0;
+  position: fixed;
+  padding: 12px;
+}
+
+.modalBody {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+}
