@@ -14,10 +14,10 @@
 ### Usage
 
 1. Visit http://localhost:5173/
-2. A DAG based on the nodes and edges returned from the server.
+2. A DAG based on the nodes and edges returned from the server should be displayed.
 3. Clicking on a node should show the prefill UI for that node.
 4. Clicking a field within the prefill UI should display a modal with data from previous node forms
-5. When a field is filled, a button is added to enable a clear the field's value
+5. When a field is filled, a button is added to enable a user clear the field's value
 
 ### Demo
 
